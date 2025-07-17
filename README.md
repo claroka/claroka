@@ -2,5 +2,5 @@
 
 Aqui você vai encontrar meus projetos, experimentos e aquela dose de tentativa e erro que faz tudo valer a pena. Seja bem-vindo(a)!
 
-- 🌱 Estudando ADS
+- 🌱 Cursando analise e desenvolvimento de sistemas
 - 😄 Pronouns: ela/dela
